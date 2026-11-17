@@ -22,3 +22,5 @@ app/
 
 # Logs
 *.log
+# Agent notes stay local.
+CLAUDE.md
